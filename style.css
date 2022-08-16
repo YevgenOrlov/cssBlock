@@ -1,0 +1,23 @@
+.item {
+  width: 200px;
+  height: 200px;
+  background: lightblue;
+  font-size: 50px;
+}
+* {
+  margin-top: 10px;
+}
+.block {
+  display: block;
+}
+.inline.item {
+  display: inline;
+}
+
+.inline-block.item {
+  display: inline-block;
+}
+
+.flex {
+  display: flex;
+}
